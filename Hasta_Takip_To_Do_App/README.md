@@ -1,8 +1,8 @@
-🏥 Hasta Takip Sistemi To Do App
+Hasta Takip Sistemi To Do App
 
 Bu proje, hastaların bilgilerini ve ilaç takibini yönetmek için geliştirilmiş bir web uygulamasıdır.
 
-📋 Proje Hakkında
+Proje Hakkında
 
 Hasta Takip Sistemi, sağlık personelinin hasta bilgilerini kolayca yönetebileceği, her hastaya özel ilaç listesi oluşturabileceği ve ilaç takibini yapabileceği bir uygulamadır.
 
